@@ -7,5 +7,8 @@ Sažetak gradiva koje je u planu da se odradi na računarskim vežbama možete
 pronaći [na ovom repozitorijumu](https://github.com/vladaindjic/SCM-exchange-students). 
 
 Najčešće postavljena pitanja koja se tiču projektnog zadatka možete pronaći [u dokumentu](https://docs.google.com/document/d/1RakPUxM7LRqUP-xjw0dK6PoL5wmXG24skAjfang6J0o/edit?usp=sharing).
-Grubi sažetak informacija o projektu možete pronaći [ovde](https://github.com/vladaindjic/SCM-exchange-students#the-project-specification)
+Grubi sažetak informacija o projektu možete pronaći [ovde](https://github.com/vladaindjic/SCM-exchange-students#the-project-specification). *Napomena: * Web-aplikaciju koju treba da napravite
+jeste jednostavnije verzija GitHub-a. Za više informacije o tome koje funckionalnosti treba implementirati pogledajte FAQ.
+
+
 
